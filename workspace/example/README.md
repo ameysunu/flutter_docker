@@ -1,6 +1,6 @@
-# example
+# Counter App Test for Docker
 
-A new Flutter project.
+A mere counter app
 
 ## Getting Started
 
