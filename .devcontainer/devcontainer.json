@@ -3,7 +3,7 @@
     "context": "..",
     "dockerFile": "../Dockerfile",
     "remoteUser": "developer",
-    "settings": {
+      "settings": {
       "terminal.integrated.shell.linux": null
     },
     "runArgs": ["--privileged"],
