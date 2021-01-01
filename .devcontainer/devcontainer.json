@@ -3,9 +3,6 @@
     "context": "..",
     "dockerFile": "../Dockerfile",
     "remoteUser": "developer",
-         "mounts": [
-     "source=/dev/bus/usb,target=/dev/bus/usb,type=bind"
- ],
       "settings": {
       "terminal.integrated.shell.linux": null
     },
