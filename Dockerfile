@@ -27,8 +27,3 @@ ENV PATH "$PATH:/home/developer/flutter/bin"
 
 # Run basic check to download Dark SDK
 RUN flutter doctor
-
-# Run within app
-RUN git clone https://github.com/ameysunu/flutter_docker
-RUN mv /home/developer/flutter_docker
-RUN cd flutter_docker && flutter build apk
